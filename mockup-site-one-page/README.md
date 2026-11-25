@@ -2,7 +2,7 @@
 
 Site de uma só página para um café fictício na Baixa de Lisboa, o Rua Augusta Café, feito no Figma. O site apresenta o espaço, o menu, uma galeria de fotografias e botões para ver o menu e reservar mesa.
 
-**Ficheiro Figma:** [Abrir](LINK_FIGMA)
+**Ficheiro Figma:** [Abrir](https://www.figma.com/design/VPcN6fr1QWM0blvR6TRyBk/RUA-AUGUSTA-CAFE?node-id=0-1&t=SS6gMeTH5Ed12vYM-1)
 
 ## O que fiz
 - Desenhei sozinho o layout completo do site, de raiz.
