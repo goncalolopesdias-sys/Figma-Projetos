@@ -2,7 +2,7 @@
 
 Design completo do layout de uma aplicação móvel para encontrar spots de pôr do sol e descobrir as festas que acontecem durante os sunsets, com vários DJs. Feito no Figma.
 
-**Ficheiro Figma:** [Abrir](https://www.figma.com/design/82Q2osAsN9AylR0BN9KEnR/SUNSET-GRUPO?node-id=0-1&t=XjZnisnHq57THDBs-1)
+**Ficheiro Figma:** [Abrir](https://www.figma.com/design/82Q2osAsN9AylR0BN9KEnR/SUNSET-APP?node-id=0-1&t=XjZnisnHq57THDBs-1)
 
 ## O que fiz
 - Desenhei sozinho todo o layout da aplicação, de raiz.
@@ -10,6 +10,24 @@ Design completo do layout de uma aplicação móvel para encontrar spots de pôr
 - Criei os ecrãs com as festas e os DJs de cada evento.
 
 ## Ecrãs
-![Ecrã inicial](ecra-1.png)
-![Ecrã 2](ecra-2.png)
-![Ecrã 3](ecra-3.png)
+
+### Explorar
+![HOME](home.png)
+![ROOFTOPS](rooftops.png)
+![BEACH CLUBS](beach-clubs.png)
+![SECRET SPOTS](secret-spots.png)
+
+### Eventos
+![SUNSET SESSIONS @ THE ROOF](sunset-sessions-the-roof.png)
+![SUMMER VIBES ROOFTOP PARTY](summer-vibes-rooftop-party.png)
+![DEEP HOUSE & COCKTAILS](deep-house-cocktails.png)
+
+### Mensagens e perfil
+![Mensagens](mensagens.png)
+![Perfil](perfil.png)
+![DEFINICOES](definicoes.png)
+![ALTERAR EMAIL](alterar-email.png)
+
+### Bilhetes
+![BILHETES COMPRADOS](bilhetes-comprados.png)
+![BILHETES COMPRADOS QR](bilhetes-comprados-qr.png)
